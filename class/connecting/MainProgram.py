@@ -1,4 +1,4 @@
-from FortniteBot import FortniteBot
+from class.connecting.FortniteBot import FortniteBot
 
 bot1 = FortniteBot("Chat",89)
 bot2 = FortniteBot("R2-D2",22)
