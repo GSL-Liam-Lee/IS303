@@ -75,3 +75,10 @@ print(f"Largest expense: {highest}")
 print("")
 
 print(f"Small expenses: {len(small_expense)}\nModerate expenses: {len(moderate_epxense)}\n Large expenses: {len(large_expense)}\n")
+
+
+
+
+
+
+

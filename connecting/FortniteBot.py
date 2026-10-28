@@ -1,6 +1,8 @@
 class FortniteBot:
 
-    def __int__(self, bot_name):
+    max_health = 100
+
+    def __int__(self, bot_name, start_position):#constructor
         self.anme = bot_name
         self.health = 100
 
